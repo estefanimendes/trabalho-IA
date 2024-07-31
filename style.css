@@ -127,6 +127,27 @@
         }
 
 
-        footer img
+        
+        footer img {
+           width: 40px;
+           height: 40px;
+        }
+        
+          footer {
+            display: flex;
+            justify-content: center;
+          }
 
+          footer a {
+            margin: 20px;
+            text-align: center;
+            color:green
+          }
+          a {
+             text-decoration: none;
+          }
+
+          footer p {
+            margin-top: 2px;
+          }
 
